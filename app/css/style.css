@@ -1,0 +1,15 @@
+#car-list {
+	margin-top: 20px;
+}
+
+.icon-pencil-16 {
+	height: 16px;
+	width: 16px;
+	background: url("../img/pencil_16.png") center;
+}
+
+.icon-cross-16 {
+	height: 16px;
+	width: 16px;
+	background: url("../img/cross_16.png") center;
+}
